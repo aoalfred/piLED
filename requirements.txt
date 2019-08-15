@@ -1,0 +1,4 @@
+RPi.GPIO
+python-daemon
+flask
+flask_restful
